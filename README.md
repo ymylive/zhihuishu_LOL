@@ -20,7 +20,7 @@
 ```bash
 # 克隆仓库
 git clone https://github.com/ymylive/zhihuishu_LOL.git
-cd zhihuishu_LOL/fuckZHS
+cd zhihuishu_LOL
 
 # 安装依赖
 pip install -r requirements.txt
@@ -29,9 +29,6 @@ pip install -r requirements.txt
 ## 快速开始
 
 ```bash
-# 进入项目目录
-cd fuckZHS
-
 # 运行脚本（使用二维码登录）
 python main.py
 ```
@@ -84,4 +81,4 @@ python main.py --fetch
 
 ## License
 
-本项目遵循原项目的 [MIT License](./fuckZHS/LICENSE)。
+本项目遵循原项目的 [MIT License](./LICENSE)。
